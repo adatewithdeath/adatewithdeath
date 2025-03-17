@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://files.catbox.moe/1lxzpl.jpg" width="300" height="200">
-</p>
+![7d9a13b3fdd3e82e7588c198a71db005](https://github.com/user-attachments/assets/ed622eed-5b1c-40e0-adea-33c8b1f6572b)
